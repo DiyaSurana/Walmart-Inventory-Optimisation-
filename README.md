@@ -1,5 +1,5 @@
 
-## Walmart Inventory Optimisation
+# Walmart Inventory Optimisation
 
 ![Image](https://github.com/user-attachments/assets/4622aa1e-d33a-4a0e-8924-c8f7922c265e)
 
